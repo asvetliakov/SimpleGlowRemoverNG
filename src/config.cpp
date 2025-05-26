@@ -69,7 +69,6 @@ Config::ReadConfig()
             continue;
         }
 
-        // look for form all all forms
         if (!formId.empty() && !modName.empty())
         {
             auto uFormId = parseHexFlexible(formId);
