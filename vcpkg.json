@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "simpleedgeremoverng",
+  "version-string": "1.0.0",
+  "homepage": "https://tbd.com",
+  "license": "MIT",
+  "dependencies": [
+    "simpleini",
+    "spdlog",
+    "directxmath",
+    "directxtk",
+    "rapidcsv"
+  ]
+}

@@ -1,0 +1,4 @@
+namespace EdgeRemover
+{
+    void Initialize();
+}
